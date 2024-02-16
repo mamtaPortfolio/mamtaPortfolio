@@ -1,24 +1,25 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/itsmamtag/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mamtaPortfolio&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working as a Software Engineer and contributing to backend and frontend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks, LeetCode and read tech articles.
-- 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/itsmamtag/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
----
-
+<h1 align="left">Hi there, here is Mamata!👋</h1>
+<p align="left">
+    <i>
+        🏦 I am an IT Professional based in Delhi, India.<br>
+        🔭 My current role involves contributing to backend, frontend for building web applications and proficiently managing a few teams of techies<br>
+        💻 and also working with AWS and CI/CD<br>
+        🌱 Exploring the realms of Cloud computing and Machine Learning problems (Pandas, Numpy, NLTK, Scikit-learn)<br>
+        ⚡ In my free time I solve problems on GeeksforGeeks, LeetCode and read tech articles.<br>
+        👯 Open to making new connections.<br><br>
+        📫 How to reach me:
+    </i>
+    <div>
+    <a href="https://www.linkedin.com/in/itsmamtag" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="mailto:mamta.gupta495@gmail.com" target="_blank">
+        <img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </div>
+      
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
