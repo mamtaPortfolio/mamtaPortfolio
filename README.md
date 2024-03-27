@@ -6,7 +6,7 @@
     <i>
         🏦 I am an IT Professional based in Delhi, India.<br>
         🔭 My current role involves contributing to backend, frontend for building web applications and proficiently managing a few teams of techies<br>
-        💻 and also working with AWS and CI/CD<br>
+        💻 and also working with AWS, Azure, GCD and CI/CD<br>
         🌱 Exploring the realms of Cloud computing and Machine Learning problems (Pandas, Numpy, NLTK, Scikit-learn)<br>
         ⚡ In my free time I solve problems on GeeksforGeeks, LeetCode and read tech articles.<br>
         👯 Open to making new connections.<br><br>
